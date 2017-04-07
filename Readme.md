@@ -5,8 +5,8 @@ Examples and demonstration project.  Checkout the branches for situations as des
 ## Getting started
 1. Fork this repo
 2. Settings > Branches > Protected Branches
-  1. Choose master branch
-  2. Select "Require pull request reviews before merging" and "Include administrators"
+    1. Choose master branch
+    2. Select "Require pull request reviews before merging" and "Include administrators"
 
 ## Excercises
 
